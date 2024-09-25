@@ -6,10 +6,10 @@ Welcome to the **Detecting Mosquito in Flight** project. Follow the steps below 
 ### Download and Install
 
 1. **Download the executable**:
-   - Download the `.exe` file from the installation folder [here](https://drive.google.com/drive/folders/1fI0PbEfFs53tcndoB7yPG9Pp4paDLnJN).
+   - Download and install the FlightTrackAI `.exe` file from the installation folder [here](https://drive.google.com/drive/folders/1fI0PbEfFs53tcndoB7yPG9Pp4paDLnJN).
    
 2. **Download the Trained Model**:
-   - Download the trained model for the user interface, named `Mosquito Detection Model.pt`, from this GitHub repository.
+   - Download the trained model for the FightTrackAI user interface, named `Mosquito Detection Model.pt`, from this GitHub repository.
    
 3. **Optional**: If you wish to custom-train your model, follow the instructions at the [Ultralytics GitHub Repository](https://github.com/ultralytics/ultralytics) for guidance on custom model training.
 
