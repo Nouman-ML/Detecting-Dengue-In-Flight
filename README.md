@@ -1,5 +1,5 @@
 
-# Detecting Mosquito in Flight - README
+# Detecting Dengue in Flight - README
 
 Welcome to the **Detecting Mosquito in Flight** project. Follow the steps below to download, install, and run the application.
 
